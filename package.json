@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Abhiram Sankarasetty",
+    "email": "sankarasettyabhiram@gmail.com",
+    "url": "https://github.com/abhiramsankarasetty"
   },
-  "description": "Welcome to my full stack Next.js 14 space portfolio.",
+  "description": "Welcome to Abhiram Sankarasetty's full stack Next.js 14 space portfolio.",
   "keywords": [
     "reactjs",
     "nextjs",
@@ -48,21 +48,17 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/space-portfolioit"
+    "url": "https://github.com/abhiramsankarasetty/Abhiram-Sankarasetty-s-Portfolio"
   },
-  "homepage": "https://github.com/sanidhyy/space-portfolio#readme",
+  "homepage": "https://github.com/abhiramsankarasetty/Abhiram-Sankarasetty-s-Portfolio#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/space-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/abhiramsankarasetty/Abhiram-Sankarasetty-s-Portfolio/issues",
+    "email": "sankarasettyabhiram@gmail.com"
   },
   "funding": [
     {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
       "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "url": "https://www.buymeacoffee.com/abhiramsankarasetty"
     }
   ],
   "dependencies": {
