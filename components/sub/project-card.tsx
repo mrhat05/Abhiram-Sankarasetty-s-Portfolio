@@ -6,7 +6,7 @@ type ProjectCardProps = {
   title: string;
   description: string;
   link: string;
-  technologies?: string[];
+  technologies?: readonly string[];
   status?: string;
 };
 

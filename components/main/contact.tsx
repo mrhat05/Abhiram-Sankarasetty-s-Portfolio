@@ -21,7 +21,7 @@ export const Contact = () => {
           Contact Me
         </h1>
         <p className="text-gray-400 text-lg max-w-[700px] mx-auto">
-          Let's connect! Feel free to reach out for collaborations or opportunities
+          Let&apos;s connect! Feel free to reach out for collaborations or opportunities
         </p>
       </motion.div>
 
