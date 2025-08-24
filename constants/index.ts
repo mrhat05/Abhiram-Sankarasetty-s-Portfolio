@@ -122,12 +122,12 @@ export const SOCIALS = [
   {
     name: "LinkedIn",
     icon: RxLinkedinLogo,
-    link: "https://linkedin.com/in/abhiram-sankarasetty",
+    link: "https://www.linkedin.com/in/abhiram-sankarasetty-452745220/",
   },
   {
     name: "GitHub",
     icon: RxGithubLogo,
-    link: "https://github.com/abhiramsankarasetty",
+    link: "https://github.com/mrhat05",
   },
   {
     name: "Email",
@@ -312,12 +312,12 @@ export const FOOTER_DATA = [
       {
         name: "LinkedIn",
         icon: RxLinkedinLogo,
-        link: "https://linkedin.com/in/abhiram-sankarasetty",
+        link: "https://www.linkedin.com/in/abhiram-sankarasetty-452745220",
       },
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/abhiramsankarasetty",
+        link: "https://github.com/mrhat05",
       },
       {
         name: "LeetCode",
@@ -332,18 +332,19 @@ export const FOOTER_DATA = [
       {
         name: "Doubtroom",
         icon: null,
-        link: "https://doubtroom.vercel.app",
+        link: "https://doubtroom.com",
       },
       {
         name: "Voxa AI",
         icon: null,
-        link: "https://voxa-ai.vercel.app",
+        link: "https://voxa-mrhat.netlify.app/",
       },
       {
-        name: "Portfolio",
+        name: "Blogify",
         icon: null,
-        link: "https://abhiram-portfolio.vercel.app",
+        link: "https://blogify-mrhat.netlify.app/",
       },
+
     ],
   },
   {
@@ -355,10 +356,11 @@ export const FOOTER_DATA = [
         link: "mailto:sankarasettyabhiram@gmail.com",
       },
       {
-        name: "Phone",
-        icon: null,
-        link: "tel:+917842537716",
+        name:"LinkedIn",
+        icon:null,
+        link:"https://www.linkedin.com/in/abhiram-sankarasetty-452745220/"
       },
+
       {
         name: "Resume",
         icon: null,
