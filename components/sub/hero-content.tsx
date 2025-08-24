@@ -47,7 +47,7 @@ export const HeroContent = () => {
         >
           I&apos;m a passionate Full Stack Developer with expertise in React.js, Node.js, and MongoDB. 
           Currently pursuing B.Tech in Electrical Engineering at NIT Agartala. 
-          Top 1.75% LeetCode performer with 450+ problems solved.
+          Top 1.75% in a LeetCode contest with 450+ problems solved.
         </motion.p>
 
         <motion.button
